@@ -46,7 +46,7 @@ body{
 }
 
 .apresentacao{
-    padding: 5% 15%; /*primeiro valor superior e inferior e 15% dos lados*/
+    padding: 10% 15%; /*primeiro valor superior e inferior e 15% dos lados*/
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -147,7 +147,6 @@ body{
     font-family: var(--font-secundaria);
     font-weight: 400;
     text-align: center;
-    margin-top: 10px;
 }
 
 @media(max-width: 1200px){
